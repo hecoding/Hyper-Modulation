@@ -107,10 +107,12 @@ The project is based on [this StyleGAN implementation](https://github.com/rosina
 ### Citation
 
 ```
-@article{laria2021hypermod,
-  title={Transferring Unconditional to Conditional GANs with Hyper-Modulation},
-  author={Laria, H{\'e}ctor and Wang, Yaxing and van de Weijer, Joost and Raducanu, Bogdan},
-  journal={arXiv preprint arXiv:2112.02219},
-  year={2021}
+@InProceedings{Laria_2022_CVPR,
+    author    = {Laria, H\'ector and Wang, Yaxing and van de Weijer, Joost and Raducanu, Bogdan},
+    title     = {Transferring Unconditional to Conditional GANs With Hyper-Modulation},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
+    month     = {June},
+    year      = {2022},
+    pages     = {3840-3849}
 }
 ```
